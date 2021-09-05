@@ -15,7 +15,7 @@
   "author": "Lintar Febriyanto [+6281232088696][lintar.febri@gmail.com]",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.3",
     "express": "^4.17.1",
     "puppeteer": "^3.0.0",
     "qrcode-terminal": "^0.12.0",
